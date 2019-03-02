@@ -1,0 +1,15 @@
+Script started on 2019-02-04 13:58:46-05:00
+bash-4.4$ who am i
+drawana2 pts/5        2019-02-04 13:58
+bash-4.4$ java InsertionSort.[K 20000
+Insertion Sort on 20000 elements. 
+First 20 elements before sorting: 20000 19999 19998 19997 19996 19995 19994 19993 19992 19991 19990 19989 19988 19987 19986 19985 19984 19983 19982 19981 
+First 20 elements after sorting: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+bash-4.4$ java InsertionSort 200000
+Insertion Sort on 200000 elements. 
+First 20 elements before sorting: 200000 199999 199998 199997 199996 199995 199994 199993 199992 199991 199990 199989 199988 199987 199986 199985 199984 199983 199982 199981 
+First 20 elements after sorting: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+bash-4.4$ exit
+exit
+
+Script done on 2019-02-04 13:59:51-05:00
